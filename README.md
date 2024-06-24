@@ -1,2 +1,2 @@
-# el-apostol
-la revista El Apostol es de contenido Católico
+# El Apóstol
+la revista El Apóstol es de contenido Católico
