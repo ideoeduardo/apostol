@@ -1,2 +1,3 @@
 # El Apóstol
-la revista El Apóstol es de contenido Católico
+<h1 class="uk-card-title">Revista Mensual de<samp>UAC</samp>  Venezuela. "El Apóstol"</h1>
+<p>Te colocamos en disposición la Revista en formato digital de La Unión del Apostolado Católico de Venezuela; con la intención de informar, conocer y formarse con los padres Palotinos en nuestro país.</p>
